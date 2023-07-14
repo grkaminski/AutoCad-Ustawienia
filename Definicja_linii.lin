@@ -1,0 +1,11 @@
+;;
+;; Plik definicji rodzajów linii ISO do programu AutoCad
+;;
+
+
+*ACAD_ISO02W050,ISO dash __ __ __ __ __ __ __ __ __ __ __ __ __
+A,6,-1.5
+*ACAD_ISO04W050,ISO long-dash dot ____ . ____ . ____ . ____ . _
+A,12,-1.5,0,-1.5
+*ACAD_ISO05W050,ISO long-dash double-dot ____ .. ____ .. ____ . 
+A,12,-1.5,0,-1.5,0,-1.5
